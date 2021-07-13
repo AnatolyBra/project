@@ -1,0 +1,91 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package inner.purchase;
+
+import inner.exception.CoinsOutOfArrangeException;
+import inner.exception.NonPossitiveArgumentException;
+import inner.exception.PatternArgumentExcpetion;
+import inner.exception.RangeArgumentException;
+
+public class Byn {
+    private int value;
+
+    public Byn(int value) {
+        this.value = value;
+    }
+
+    public Byn(Byn byn) {
+        this(byn.getValue());
+    }
+
+    public int getValue() {
+        return this.value;
+    }
+
+    public Byn(String strByn) {
+        this(getValidValue(strByn));
+        this.value = this.value;
+    }
+
+    public Byn(int rubs, int coins) {
+        this(getValidValue(rubs, coins));
+    }
+
+    public static int getValidValue(String value) {
+        boolean matches = value.matches("([0-9]*)[.][0-9]{1,2}?$");
+        if (!matches) {
+            throw new PatternArgumentExcpetion(value, "bynValue");
+        } else {
+            String[] arr = value.split("\\.");
+            return getValidValue(Integer.parseInt(arr[0]), Integer.parseInt(arr[1]));
+        }
+    }
+
+    public static int getValidValue(int rubs, int coins) {
+        if (coins > 100) {
+            throw new CoinsOutOfArrangeException(coins, "bynCoins");
+        } else if (rubs < 0) {
+            throw new NonPossitiveArgumentException(rubs, "ruble");
+        } else if (coins < 0) {
+            throw new NonPossitiveArgumentException(coins, "coins");
+        } else {
+            long amount = 0L;
+            amount = (long)rubs * 100L + (long)coins;
+            if (amount > 2147483647L) {
+                throw new RangeArgumentException(amount, "bynAmount");
+            } else {
+                return (int)amount;
+            }
+        }
+    }
+
+    public String toString() {
+        return this.value + " ";
+    }
+
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        } else if (o != null && this.getClass() == o.getClass()) {
+            Byn byn = (Byn)o;
+            return this.value == byn.value;
+        } else {
+            return false;
+        }
+    }
+
+    public int hashCode() {
+        return this.value;
+    }
+
+    public int compareTo(Byn byn) {
+        if (byn.getValue() != this.getValue()) {
+            return byn.getValue() > this.getValue() ? -1 : 1;
+        } else {
+            return 0;
+        }
+    }
+}
