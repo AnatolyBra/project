@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb68b0c8-7a3e-4907-8349-839e9711d2c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/libraries/airport_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/Air.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/lib/airport-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/out/production/Air/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Air/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/.idea/artifacts/Cat_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/Cat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/out/Cat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/out/production/Cat/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/out/production/Cat/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/out/production/Cat/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/out/production/Cat/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/src/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/src/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/Cat/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/RoadController.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/out/production/RoadController/RoadController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/out/production/RoadController/core/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/out/production/RoadController/core/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/src/RoadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/src/core/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ObjectsAndClasses/RoadController/src/core/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/homework_4.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/01_sumdigits.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/src/main/java/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/src/test/java/TestSumDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/target/classes/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.1/IntegerExperiments/target/test-classes/TestSumDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/homework_4.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/out/production/homework_4.2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/homework_4.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/GeometryCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/main/java/GeometryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/test/java/TestGetCircleSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/test/java/TestGetSphereVolume.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/test/java/TestGetTriangleSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/src/test/java/TestIsTrianglePossible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/classes/GeometryCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/test-classes/TestGetCircleSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/test-classes/TestGetSphereVolume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/test-classes/TestGetTriangleSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/GeometryCalculator/target/test-classes/TestIsTrianglePossible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/TrucksContainersAndBoxes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/src/test/java/TestTrucksContainersAndBoxes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.3/TrucksContainersAndBoxes/target/test-classes/TestTrucksContainersAndBoxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/homework_4.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/FullNameFormatter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/FullNameFormatter/src/test/java/TestNameFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/MaskingInformation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/MaskingInformation/src/test/java/TestMaskingData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/TotalEarningsCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/TotalEarningsCalculator/src/test/java/TestEarningsCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/Unicode/Unicode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.4/Unicode/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/homework_4.5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/FullNameFormatterRegExp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/FullNameFormatterRegExp/src/test/java/TestNameFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/MaskingInformationReqExp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/MaskingInformationReqExp/src/test/java/TestMaskingData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/PhoneCleaner.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/src/test/java/TestPhoneCleaner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/PhoneCleaner/target/test-classes/TestPhoneCleaner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/SplitText.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/src/test/java/TestSplitText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/src/test/resources/InputText.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/SplitText/src/test/resources/Result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/TotalEarningsCalculatorReqExp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.5/TotalEarningsCalculatorReqExp/src/test/java/TestEarningsCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/homework_4.6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__com_puppycrawl_tools_checkstyle_8_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__info_picocli_picocli_4_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__net_sf_saxon_Saxon_HE_9_9_1_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/BirthdayCalendar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/src/test/java/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_NumbersStringsAndDates/homework_4.6/BirthdayCalendar/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.1/5.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.12/5.12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.13/5.13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.2/5.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.3/5.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.4/5.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.5/5.5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_ArraysAndCollections/5.5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.1/6.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.1/src/account/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.1/src/account/CardAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.1/src/account/DepositeAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.1/src/account/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/6.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/src/account/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/src/account/IndividualBusinessman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/src/account/LegalPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6.3/src/account/PhysicalPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/EmployType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06_InheritanceAndPolymorphism/6/src/company/TopManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/07_AdvancedOOPFeatures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/LambdaExpressions/LambdaExpressions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/LambdaExpressions/data/staff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/LambdaExpressions/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/LambdaExpressions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/LambdaExpressions/src/UserComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_AdvancedOOPFeatures/data/staff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/ConsoleCustomerList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/src/CustomerStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/ConsoleCustomerList/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/SPBMetro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/spb-metro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/java/RouteCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/java/StationIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/java/core/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/java/core/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/resources/map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08_ExceptionsDebuggingAndTesting/SPBMetro/src/main/test/java/RouteCalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/files/map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/files/movementList.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.1/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.1/src/main/java/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.1/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.1/src/test/java/FolderSizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/0/список телефонов.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/0/тест.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/folder-copy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/src/main/java/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.2/src/test/java/FolderCopyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/checkstyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/data/movementList.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/read-movements-csv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/main/java/Movements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/java/TestMovementList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/java/TestMovementListFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/java/TestMovementListInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/resources/movementList.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/resources/movementListFloat.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.3/src/test/resources/movementListInteger.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/data/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/data/img.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/homework_9.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/feature_8906a847d344004591c97724f4d72f32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_01242ceb331533fbd33c7ebbed3d5b1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_0245ef7100872b7668f807cf55146a4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_0819a759405f818ad0cca933267c3160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_0c23b5ea8992be8ae390111293628a26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_200df8bc345054eb5d5bf079157a8b8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_24cb44e19db5c36479753b091752a4de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_2d02624b1c9fa02af830c9ad4462c514.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_2da06db1d27ec87b95a8dd6d2ec0cc95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_39cecd8ff7390f08e1539b34ccec38fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_42e06d6738374db09002d6f5773a7029.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_4562077a7e06f8ea33567209ead8a36e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_4d6272d6ea56c501c22f24ff57cc6b7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_537d449cb80dbbd8c852cebdca6ca699.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_550a14b67cca486d1ac4391843569aa7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_55220f0989a5743079ea990056eb7f0e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_55f59f0468f5ce8ebe847083c2f72d0b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_5a2f44c10b52b191701c8adb88b21820.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_63fb8438f160e08339cfe0dd8790596b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_6c279e56456fa41bd8d3672b999c4d03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_74ebb8b71a86aa9266902b295bc4afa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_7cb88f5cae4c343a924ecbda27975d8e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_83fa4d5ec85d2e37d0e4e3686b14218c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_8453372f4a75f1a8a2e65e4c21109aa9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_860286ab353fdf104689a14abd082cdf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_8ad7f8b67463f49fea480bfd9957d271.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_9264ccef38cb1e9b55ec8cae08630682.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_9b2c82027e3fd4d747141dde7b5d4ef1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_9d3089972e112dce25cf4a02c5d31ebd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_a0d41b1325a261f72984968fd9ea330c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_ad44af0b5099d8597091f2ff7c353452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_c35aa0dc9586818ab385488315e3aee3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_cb46ad20927392c2de0ffc1720c3c209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_d1140acde6dc13dc997bc12528d23ed3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_d4b8eb6bfa8ec644ba17a6817d70d23f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_d9522f196d47054d46db159dfb230ea9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_dae76d7799c4201adde0904460ed1d06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_e08e406ed415d3fc644ab1f55c2d0519.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_e365ea18aacfccbf5cdbefa8f8882e94.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_e3c395a5cf4fc058329158d58c1fbd43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_e6d1acdbbeb3dcb92e49bfc6ea116f04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_e7617524f8565c06a558f66d45e9b008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_f128195a57f2b4b87868654f120c3721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_f2c826ee5527863528ee619022a42925.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_f528f117572ca08c8c3e37b3d5294c36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_f69155f0e842d0ba7ad7b36c1f1498aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/tabloid_fcd9dfa2e3b6969a45f0b4c793173ea6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_009b502d6fe4c6052f65f644242f02e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_1e5e7f27fd10870a3e6426d2b31b5d3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_30345dc201ebc50b8f6534fcfde28d32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_48316e3315205cae107124c4eed5a55e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_488737d41945a2150f9d534d6ee86ba8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_51dbdd557bb24fca7ba9e854a296b2f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_561f55bbd4f7a5e7438cacbcd205c3d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_5666fa25edfe96c308edea3d10f4ca98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_70f4ef116352235b736190f29f1c0e88.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_73f8030cc4cb1f8ebd943df015f67ddd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_7414926dfb3fb2b0e219a54e2f784a59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_7c572d1876f7f6f1324d63d4ede630d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_7fa35d1d3b740113a68eb793ef1660ab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_8bc3bf4b31b4452c0db3fcbc5ba5ea93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_8c48d64fb190af3bc6fadf73a8e017d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_8fe6d121afbd2618364fb054ba86a399.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_af74024e642f25d269f5aacddd638d91.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_b2169731f04b2bdfda4c086e8e9af86f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_e17d7a9adfe096a44839c667bfcda84c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/images/top7_e4618f4656d375cfe66b01977e582bea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.5/homework_9.5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.5/src/core/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_FilesAndNetwork/homework_9.5/src/core/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/Unicode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/out/production/Unicode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unicode/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vFAcNcwmW2hTen7S8BzY3zwuS7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ForkJoinPool" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CalculateLength" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb68b0c8-7a3e-4907-8349-839e9711d2c9" name="Default Changelist" comment="" />
+      <created>1626147541626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626147541626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
