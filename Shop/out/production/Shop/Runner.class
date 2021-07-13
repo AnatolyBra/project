@@ -1,0 +1,87 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+import inner.exception.CsvLineException;
+import inner.purchase.MonthSelector;
+import inner.purchase.PriceDiscountPurchase;
+import inner.purchase.Purchase;
+import inner.purchase.WrapperDate;
+import inner.purchase.WrapperEntry;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.PrintStream;
+import java.text.SimpleDateFormat;
+import java.time.DayOfWeek;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.EnumMap;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
+import java.util.Map;
+import java.util.Objects;
+import java.util.Scanner;
+import java.util.Set;
+
+public class Runner {
+    private static List<PriceDiscountPurchase> priceDiscountPurchases = new ArrayList();
+    private static Map<Purchase, WrapperDate> purchasesMap = new HashMap();
+    private static Map<DayOfWeek, List<Purchase>> dayPurchasesMap = new EnumMap(DayOfWeek.class);
+    private static List<DayOfWeek> listOfDay = new ArrayList();
+
+    public Runner() {
+    }
+
+    public static void main(String[] args) throws FileNotFoundException {
+        new Date();
+        new SimpleDateFormat("EEEE", Locale.ENGLISH);
+        File file = new File("date.txt");
+
+        try {
+            Scanner sc = new Scanner(new FileReader(file));
+
+            try {
+                while(sc.hasNext()) {
+                    String line = sc.nextLine();
+
+                    try {
+                        String[] values = line.split(";", 2);
+                        if (values.length < 2) {
+                            throw new CsvLineException();
+                        }
+
+                        List<Purchase> listOfPurchases = new ArrayList();
+                        WrapperEntry entry = WrapperEntry.gerValidEntry(line);
+                        listOfPurchases.add(entry.getPurchase());
+                        MonthSelector monthSelector = new MonthSelector();
+                        DayOfWeek dayOfWeek = monthSelector.monthSelector(entry.getDate().getDateSt());
+                        if (dayOfWeek != null) {
+                            dayPurchasesMap.put(dayOfWeek, listOfPurchases);
+                        }
+                    } catch (CsvLineException var12) {
+                    }
+                }
+            } catch (Throwable var13) {
+                try {
+                    sc.close();
+                } catch (Throwable var11) {
+                    var13.addSuppressed(var11);
+                }
+
+                throw var13;
+            }
+
+            sc.close();
+        } catch (FileNotFoundException var14) {
+        }
+
+        System.out.println();
+        Set var10000 = dayPurchasesMap.entrySet();
+        PrintStream var10001 = System.out;
+        Objects.requireNonNull(var10001);
+        var10000.forEach(var10001::println);
+    }
+}
