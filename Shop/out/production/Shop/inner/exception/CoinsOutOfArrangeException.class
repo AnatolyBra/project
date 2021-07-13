@@ -1,0 +1,12 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package inner.exception;
+
+public class CoinsOutOfArrangeException extends IllegalArgumentException {
+    public CoinsOutOfArrangeException(int coins, String bynCoins) {
+        super(String.format("uncorrect value %s", coins));
+    }
+}
